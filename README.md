@@ -16,6 +16,7 @@ I am now transitioning into broader data analytics, focusing on transforming raw
 - Data analytics projects (SQL, Excel, Power BI)  
 - Analyzing business and operational datasets
 - Expanding into advanced analytics and data science concepts
+
 [![My Projects](https://img.shields.io/badge/🚀_View_My_Projects-FFD54F?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VhutaliM?tab=repositories)
 
 ---
