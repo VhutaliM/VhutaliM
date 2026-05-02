@@ -5,12 +5,12 @@
 ---
 
 ## 📌 About Me
-I’m an aspiring Data Analyst with a strong foundation in SQL, Excel, and data visualization, currently building practical, real-world projects to strengthen my analytical skills.
+Data Analyst with hands-on experience transforming large, real-world datasets into actionable insights using SQL, Excel, and Power BI. 
+
+My background in GIS and environmental data adds a unique edge in spatial and complex data analysis. Skilled in data cleaning, feature engineering, and building stakeholder-ready dashboards.
 
 My background includes hands-on experience working with geospatial and environmental datasets, where I’ve handled spatial data formats such as Shapefiles (.shp), GeoPackages (.gpkg), GeoJSON, KML, raster data (TIFF), and GPS-based field data.
 
-This experience has given me a unique ability to work with complex, real-world data, combining technical analysis with practical understanding from field-based projects.
-I am now transitioning into broader data analytics, focusing on transforming raw data into meaningful insights that support decision-making across different domains.
 
 ## 🎯 Current Focus
 - Data analytics projects (SQL, Excel, Power BI)  
